@@ -5,4 +5,6 @@ def my_each(array)
     yields ([i])
     i = i + 1 
   end
+  
+  array
 end
